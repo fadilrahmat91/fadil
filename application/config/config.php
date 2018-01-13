@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost:8080/ci_penjualan';
+$config['base_url']	= 'http://localhost:8080/fadilcrud_ci/';
 
 /*
 |--------------------------------------------------------------------------
